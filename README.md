@@ -10,35 +10,57 @@ Advanced 4-floor College Campus Network Design using Cisco Packet Tracer.
 ## 🗺 Network Topology
 ![Topology](Topology.png)
 
+---
+
 ## 🌐 VLAN Configuration
 ![VLAN](VLAN.png)
+
+---
 
 ## 🔀 Trunk Configuration
 ![Trunk](Trunk.png)
 
+---
+
 ## 📡 VTP Client Configuration
-![VTP Client](VTP client.png)
+![VTP Client](./VTP%20client.png)
+
+---
 
 ## 📊 VTP Status
-![VTP Status](vtp status.png)
+![VTP Status](./vtp%20status.png)
+
+---
 
 ## 🔒 Access List Configuration
 ![Access List](Access-list.png)
 
+---
+
 ## 🛡 Port Security Configuration
 ![Port Security](Port-Security.png)
+
+---
 
 ## 📶 Ping Verification
 ![Ping](ping.png)
 
+---
+
 ## 📋 Interface Brief
-![Interface Brief](int brief.png)
+![Interface Brief](./int%20brief.png)
+
+---
 
 ## ⚙ Router Configuration 1
 ![Router Config](Router-Config.png)
 
+---
+
 ## ⚙ Router Configuration 2
 ![Router Config1](Router-config1.png)
+
+---
 
 ## ⚙ Router Configuration 3
 ![Router Config2](Router-config2.png)
